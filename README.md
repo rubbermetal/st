@@ -39,7 +39,7 @@ features that make it literally the best terminal emulator ever:
 You should have xlib header files and libharfbuzz build files installed.
 
 ```
-git clone https://github.com/LukeSmithxyz/st
+git clone https://github.com/rubbermetal/st
 cd st
 sudo make install
 ```
@@ -85,5 +85,4 @@ Note that when you run `wal`, it will negate the transparency of existing window
 
 ## Contact
 
-- Luke Smith <luke@lukesmith.xyz>
-- [https://lukesmith.xyz](https://lukesmith.xyz)
+- Clay Grace <rubbermetal@yahoo.com>
